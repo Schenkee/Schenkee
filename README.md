@@ -56,7 +56,7 @@ Alongside my role, I’m building towards a transition into **cybersecurity engi
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Schenkee&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schenkee&layout=compact&theme=radical)  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schenkee&layout=compact&theme=radical)  -->
 
 
 <!--
