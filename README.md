@@ -18,16 +18,18 @@ Alongside my role, I’m building towards a transition into **cybersecurity**, w
 
 ---
 
-## 🛠️ Skills & Tools
-- **Offensive Security & Pentesting**: Nmap, Burp Suite, Metasploit, Hydra, Gobuster, SQLMap  
-- **Security Practices**: Vulnerability scanning, enumeration, privilege escalation, report writing  
-- **Enterprise Systems**: PeopleSoft HCM (batch processes, troubleshooting, advanced support)  
-- **Data & Querying**: SQL (regular use for data extraction and analysis)  
-- **Scripting & Automation**:  
-  - Python (basic experience, scripting fundamentals)  
-  - Power Automate (compose items, basic expression building)  
-  - Bash & PowerShell (automation and system tasks)  
-- **Networking**: CompTIA Network+ fundamentals, TCP/IP, firewalls, VPNs  
+## 🛠️ Skills & Tools  
+
+- **Enterprise Systems:** PeopleSoft HCM (batch processes, troubleshooting, advanced support)
+- **Data & Querying:** SQL (regular use for data extraction and analysis)
+- **Scripting & Automation:**
+  - Python (basic experience, scripting fundamentals)
+  - Power Automate (compose items, basic expression building)
+  - Bash & PowerShell (automation and system tasks)
+- **Networking:** CompTIA Network+ fundamentals, TCP/IP, firewalls, VPNs
+- **Security Learning Focus:** Building foundational knowledge in **SOC operations, Digital Forensics & Incident Response (DFIR), and Threat Hunting**
+- **Offensive Security & Pentesting:** Nmap, Burp Suite, Metasploit, Hydra, Gobuster, SQLMap
+- **Security Practices:** Vulnerability scanning, enumeration, privilege escalation, report writing  
 
 ---
 
