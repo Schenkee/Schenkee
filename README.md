@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I’m a **Senior System Support Specialist** with a background in **PeopleSoft HCM administration**.  
 Day-to-day, I focus on **troubleshooting complex technical issues** that go beyond the scope of junior support, ensuring stability and reliability across enterprise HR systems.  
-Alongside my role, I’m building towards a transition into **cybersecurity engineering** with a strong interest in **penetration testing and offensive security techniques**.  
+Alongside my role, I’m building towards a transition into **cybersecurity** with a strong interest in **penetration testing and offensive security techniques**.  
 
 ---
 
