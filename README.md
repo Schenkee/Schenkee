@@ -12,8 +12,8 @@ Alongside my role, I’m building towards a transition into **cybersecurity**, w
 
 - 🧑‍💻 Creating detailed lab guides to reinforce and share technical concepts
 - 🔒 Working through the TryHackMe **SOC Level 1 Path**
-- ⚡ Expanding knowledge in **Linux administration & automation** (Bash/Python/PowerShell)  
 - 🛡️ Building fundamentals in **SOC operations, Digital Forensics & Incident Response (DFIR), and Threat Hunting**
+- ⚡ Expanding knowledge in **Linux administration** 
 - 🎯 Continuing hands-on practice in **penetration testing and offensive security techniques**
 
 ---
