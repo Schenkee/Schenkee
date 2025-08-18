@@ -41,7 +41,7 @@ Alongside my role, I’m building towards a transition into **cybersecurity**, w
 ---
 
 ## 📌 Current Role
-💼 Senior System Support Specialist (PeopleSoft HCM)  
+**💼 Senior System Support Specialist (PeopleSoft HCM)**  
 - Troubleshooting and resolving **complex technical issues** escalated beyond junior support  
 - Managing and monitoring **batch processes** requiring elevated privileges  
 - Using **SQL** for regular data extraction, analysis, and problem resolution  
