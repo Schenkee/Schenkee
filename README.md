@@ -48,6 +48,14 @@ Alongside my role, I’m building towards a transition into **cybersecurity engi
 
 ---
 
+## 📂 Featured Projects
+
+### 📝 TryHackMe Lab Guides
+I maintain a repository of detailed **TryHackMe lab guides**, designed to reinforce concepts and share step-by-step approaches to challenges:  
+[![TryHackMe Guides](https://img.shields.io/badge/TryHackMe-Guides-blue?logo=github)](https://github.com/Schenkee/TryHackMe-Guides)
+
+---
+
 ## 🌐 Links & Profiles
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/colin-s-35b8781b1/)  
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/schenkee)  
