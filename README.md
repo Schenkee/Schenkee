@@ -67,7 +67,7 @@ I maintain a repository of detailed **TryHackMe lab guides**, designed to reinfo
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Schenkee&show_icons=true&theme=radical)  
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schenkee&layout=compact&theme=radical)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schenkee&layout=compact&theme=radical)
 
 
 <!--
