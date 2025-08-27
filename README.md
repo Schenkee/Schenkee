@@ -2,34 +2,31 @@
 
 ## 🚀 About Me
 I’m a **Senior System Support Specialist** with a background in **PeopleSoft HCM administration**.  
-Day-to-day, I focus on **troubleshooting complex technical issues** that go beyond the scope of junior support, ensuring **stability and reliability** across enterprise HR systems.  
+In my current role, I troubleshoot **complex enterprise system issues** and manage **batch processes**, ensuring platform **stability and reliability**.  
 
-Alongside my role, I’m building towards a transition into **cybersecurity**, with a strong focus on **Blue Team, Digital Forensics & Incident Response (DFIR), and Threat Hunting**, while continuing to practice **penetration testing and offensive security techniques** to understand potential exploits.
+Alongside this, I am actively **transitioning into cybersecurity**, with a strong focus on **offensive security and penetration testing**, while maintaining foundational awareness of **SOC and DFIR concepts**.
 
 ---
 
 ## 📚 Current Learning Journey
 
-- 🧑‍💻 Creating detailed lab guides to reinforce and share technical concepts
-- 🔒 Working through the TryHackMe **SOC Level 1 Path**
-- 🛡️ Building fundamentals in **SOC operations, Digital Forensics & Incident Response (DFIR), and Threat Hunting**
-- ⚡ Expanding knowledge in **Linux administration** 
-- 🎯 Continuing hands-on practice in **penetration testing and offensive security techniques**
+- 🧑‍💻 Creating **detailed lab guides** to reinforce and share technical concepts  
+- 🔒 Working through **TryHackMe PT1 Path** with a long-term goal of **OSCP**  
+- 🎯 Practicing **penetration testing and offensive security techniques** in labs  
+- ⚡ Strengthening **Linux and Windows system skills, scripting, and networking** for offensive operations  
+- 🛡️ Awareness of **SOC and DFIR concepts** to better understand defensive controls  
 
 ---
 
 ## 🛠️ Skills & Tools  
 
-- **Enterprise Systems:** PeopleSoft HCM (batch processes, troubleshooting, advanced support)
-- **Data & Querying:** SQL (regular use for data extraction and analysis)
-- **Scripting & Automation:**
-  - Python (basic experience, scripting fundamentals)
-  - Power Automate (compose items, basic expression building)
-  - Bash & PowerShell (automation and system tasks)
-- **Networking:** CompTIA Network+ fundamentals, TCP/IP, firewalls, VPNs
-- **Security Learning Focus:** Building foundational knowledge in **SOC operations, Digital Forensics & Incident Response (DFIR), and Threat Hunting**
-- **Offensive Security & Pentesting:** Nmap, Burp Suite, Metasploit, Hydra, Gobuster, SQLMap
-- **Security Practices:** Vulnerability scanning, enumeration, privilege escalation, report writing  
+- **Offensive Security & Pentesting:** Nmap, Burp Suite, Metasploit, Hydra, Gobuster, SQLMap  
+- **Security Practices:** Vulnerability scanning, enumeration, privilege escalation, reporting  
+- **Enterprise Systems:** PeopleSoft HCM (batch processes, troubleshooting)  
+- **Data & Querying:** SQL for analysis and problem-solving  
+- **Scripting & Automation:** Python (basics), Bash, PowerShell, Power Automate  
+- **Networking:** TCP/IP, firewalls, VPNs, CompTIA Network+ fundamentals  
+- **Systems:** Linux and Windows administration for offensive operations  
 
 ---
 
@@ -43,11 +40,11 @@ Alongside my role, I’m building towards a transition into **cybersecurity**, w
 ## 📌 Current Role
 **💼 Senior System Support Specialist (PeopleSoft HCM)**  
 - Troubleshooting and resolving **complex technical issues** escalated beyond junior support  
-- Managing and monitoring **batch processes** requiring elevated privileges  
-- Using **SQL** for regular data extraction, analysis, and problem resolution  
-- Supporting **system stability and performance** across the HR platform  
-- Developing **basic automation** solutions with Python, PowerShell, and Power Automate expressions  
-- Supporting **Identity and Access Management (IAM)** tasks such as access provisioning and periodic reviews when required  
+- Managing **batch processes** and elevated privilege operations  
+- Extracting and analyzing data using **SQL**  
+- Supporting **platform stability and performance**  
+- Developing **automation scripts** to improve efficiency  
+- Supporting **Identity and Access Management (IAM)** tasks as needed  
 
 ---
 
