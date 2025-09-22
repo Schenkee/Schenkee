@@ -11,7 +11,7 @@ Alongside this, I am actively **transitioning into cybersecurity**, with a stron
 ## 📚 Current Learning Journey
 
 - 🧑‍💻 Creating **detailed lab guides** to reinforce and share technical concepts  
-- 🔒 Working through **TryHackMe PT1 Path** with a long-term goal of **OSCP**  
+- 🔒 Working through **TryHackMe PT1 learning path** before moving on to **Hack The Box** with a long-term goal of **OSCP**  
 - 🎯 Practicing **penetration testing and offensive security techniques** in labs  
 - ⚡ Strengthening **Linux and Windows system skills, scripting, and networking** for offensive operations  
 - 🛡️ Awareness of **SOC and DFIR concepts** to better understand defensive controls  
