@@ -34,6 +34,10 @@ Actively **transitioning into cybersecurity**, focusing on **offensive security 
 Detailed **TryHackMe lab guides** to reinforce and share step-by-step solutions:  
 [![TryHackMe Guides](https://img.shields.io/badge/TryHackMe-Guides-blue?logo=github)](https://github.com/Schenkee/TryHackMe-Guides)
 
+### 📝 CTF Tools
+Repository of personal CTF scripts and tools I’ve created to automate tasks or demonstrate offensive security concepts:  
+[![CTF Tools](https://img.shields.io/badge/CTF-Tools-blue?logo=github)](https://github.com/Schenkee/CTF_Tools)  
+
 ---
 
 ## 🌐 Links
@@ -44,3 +48,6 @@ Detailed **TryHackMe lab guides** to reinforce and share step-by-step solutions:
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Schenkee&show_icons=true&theme=radical)
+
+## 🖥️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schenkee&layout=compact&theme=radical)
