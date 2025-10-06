@@ -8,7 +8,7 @@ Actively **transitioning into cybersecurity**, focusing on **offensive security 
 
 ## 📚 Current Learning
 - Creating **detailed TryHackMe lab guides**  
-- Completing **TryHackMe PT1 path**, with future plans for **Hack The Box** and **OSCP**  
+- Completing **TryHackMe Web Application Pentesting**, with future plans for **Hack The Box** and **OSCP**  
 - Practising **penetration testing, scripting, and networking** for offensive operations  
 - Maintaining **defensive security awareness**  
 
