@@ -2,23 +2,6 @@
 
 ## 🚀 About Me
 Senior System Support Specialist with experience in **PeopleSoft HCM administration** and **enterprise system troubleshooting**.  
-Actively **transitioning into cybersecurity**, focusing on **offensive security and penetration testing**, while maintaining awareness of **SOC and DFIR concepts**.
-
----
-
-## 📚 Current Learning
-- Creating **detailed TryHackMe lab guides**  
-- Completing **TryHackMe Web Application Pentesting**, with future plans for **Hack The Box** and **OSCP**  
-- Practising **penetration testing, scripting, and networking** for offensive operations  
-- Maintaining **defensive security awareness**  
-
----
-
-## 🛠️ Skills & Tools
-- **Offensive Security & Pentesting:** Nmap, Burp Suite, Metasploit, Hydra, Gobuster, SQLMap  
-- **Enterprise Systems:** PeopleSoft HCM, SQL, batch processes  
-- **Scripting & Automation:** Bash, PowerShell, Python (basics), Power Automate  
-- **Networking & Systems:** TCP/IP, firewalls, VPNs, Linux & Windows administration  
 
 ---
 
@@ -30,6 +13,10 @@ Actively **transitioning into cybersecurity**, focusing on **offensive security 
 ---
 
 ## 📂 Featured Projects
+### 🔍 PS Inspector
+PeopleSoft page and information inspector side panel Firefox browser extension:  
+[![PS Inspector](https://img.shields.io/badge/PS-Inspector-blue?logo=github)]()
+
 ### 📝 TryHackMe Lab Guides
 Detailed **TryHackMe lab guides** to reinforce and share step-by-step solutions:  
 [![TryHackMe Guides](https://img.shields.io/badge/TryHackMe-Guides-blue?logo=github)](https://github.com/Schenkee/TryHackMe-Guides)
