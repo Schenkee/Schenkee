@@ -15,7 +15,7 @@ Senior System Support Specialist with experience in **PeopleSoft HCM administrat
 ## 📂 Featured Projects
 ### 🔍 PS Inspector
 PeopleSoft page and information inspector side panel Firefox browser extension:  
-[![PS Inspector](https://img.shields.io/badge/PS-Inspector-blue?logo=github)]()
+[![PS Inspector](https://img.shields.io/badge/PS-Inspector-blue?logo=github)](https://github.com/Schenkee/PS-Inspector)
 
 ### 📝 TryHackMe Lab Guides
 Detailed **TryHackMe lab guides** to reinforce and share step-by-step solutions:  
