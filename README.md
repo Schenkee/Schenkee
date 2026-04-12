@@ -20,7 +20,9 @@ PeopleSoft page and information inspector side panel Firefox browser extension:
 ---
 
 ## 🌐 Links
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/colin-s-35b8781b1/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/colin-s-35b8781b1/)
+- [![PS Inspector](https://img.shields.io/badge/PS_Inspector-Download-red?logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ps_inspector/)  
+
 
 ---
 
